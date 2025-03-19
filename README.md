@@ -5,7 +5,7 @@ QR Code Generator is a simple web application that generates QR codes based on t
 ---
 
 ## Quick Access
-- Live Demo: 
+- Live Demo: https://qr-code-generator-mragilsa.vercel.app/
 
 ---
 
